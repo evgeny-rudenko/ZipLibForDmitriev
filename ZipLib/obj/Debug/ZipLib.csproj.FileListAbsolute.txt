@@ -1,0 +1,6 @@
+c:\users\evgeny\documents\visual studio 2017\Projects\ZipLib\ZipLib\bin\Debug\ZipLib.exe
+c:\users\evgeny\documents\visual studio 2017\Projects\ZipLib\ZipLib\bin\Debug\ZipLib.pdb
+c:\users\evgeny\documents\visual studio 2017\Projects\ZipLib\ZipLib\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\evgeny\documents\visual studio 2017\Projects\ZipLib\ZipLib\obj\Debug\ZipLib.csprojResolveAssemblyReference.cache
+c:\users\evgeny\documents\visual studio 2017\Projects\ZipLib\ZipLib\obj\Debug\ZipLib.exe
+c:\users\evgeny\documents\visual studio 2017\Projects\ZipLib\ZipLib\obj\Debug\ZipLib.pdb
